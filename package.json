@@ -1,0 +1,19 @@
+{
+  "name": "3erparcial",
+  "version": "1.0.0",
+  "description": "Tercer Parcial TDI2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andygarza96/3erParcial.git"
+  },
+  "author": "Andrea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andygarza96/3erParcial/issues"
+  },
+  "homepage": "https://github.com/andygarza96/3erParcial#readme"
+}
